@@ -12,8 +12,6 @@ I'm still learning new things in programming. I'm a JavaScript developer, I buil
     <a href="https://discord.com/users/939738063687540766" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/939738063687540766"></a>
 </div>
 
-## Communication
-
 <p align="center">
    <a href="https://discord.com/users/939738063687540766" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/31yjmjtpnk6jmvta2wyypbinisou" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
