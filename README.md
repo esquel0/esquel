@@ -5,7 +5,7 @@ I'm still learning new things in programming. I'm a JavaScript developer, I buil
  
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=morgraine&color=dc143c"/>
+    <img src="https://komarev.com/ghpvc/?username=morgraine&color=9833ff"/>
 </div>
 
 <div align="center">
